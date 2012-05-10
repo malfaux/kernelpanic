@@ -8,7 +8,8 @@ I am documenting everything on `kernelpanic github wiki
 <https://github.com/malfaux/kernelpanic/wiki>`_
 
 current actively developed patches:
- - `K26 softdog autostart patch <https://gist.github.com/1062070>`_
+ - `K26 softdog autostart patch (generated against gentoo kernver 2.6.38) <https://gist.github.com/1062070>`_
+ - `K32 softdog autostart patch (generated against debian kernver 3.2.0-1) <https://gist.github.com/2651870>`_
 
 
 ad: need (b)unny (o)perators (f)rom (h)eaven? go to `stackadmin.com
